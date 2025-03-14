@@ -29,6 +29,7 @@ return {
       clangd = {
         cmd = { 'clangd', '--header-insertion=never' },
       },
+      gopls = {},
       zls = {},
       lua_ls = {
         settings = {
